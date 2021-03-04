@@ -7,5 +7,6 @@ public class Practica {
 		System.out.println("Hoy es Jueves");
 		System.out.println("Cuatro de Marzo");
 		System.out.println("De 2021");
+		System.out.println("Es Invierno");
 	}
 }
